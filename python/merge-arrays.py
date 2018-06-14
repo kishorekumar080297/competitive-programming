@@ -1,0 +1,5 @@
+a=list(map(int,input().strip().split(' ')))
+b=list(map(int,input().strip().split(' ')))
+a.extend(b)
+print(a)
+#print(sorted(a,b))
