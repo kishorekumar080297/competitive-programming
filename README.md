@@ -1,4 +1,4 @@
-# Todo Android app
+# Competitive Programming
 
 This repo holds programs written in C, Python3 and Java.
 
